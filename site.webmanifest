@@ -1,0 +1,9 @@
+{
+  "name": "n1s4t • Pro Coder Starter",
+  "short_name": "ProStarter",
+  "start_url": "/pro-coder-starter/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0ea5e9",
+  "icons": [{ "src": "assets/favicon.svg", "type": "image/svg+xml", "sizes": "any" }]
+}

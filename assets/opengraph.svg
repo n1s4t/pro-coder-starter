@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0ea5e9"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0b1220"/>
+  <circle cx="960" cy="-40" r="300" fill="#0ea5e915"/>
+  <circle cx="260" cy="630" r="260" fill="#22d3ee18"/>
+  <text x="60" y="170" font-family="system-ui,Segoe UI,Roboto,Ubuntu" font-size="84" fill="#e2e8f0" font-weight="800">n1s4t</text>
+  <text x="60" y="250" font-family="system-ui,Segoe UI,Roboto,Ubuntu" font-size="52" fill="#94a3b8">Pro Coder Starter</text>
+  <rect x="60" y="290" width="580" height="6" rx="3" fill="url(#bg)"/>
+  <text x="60" y="360" font-family="system-ui,Segoe UI,Roboto,Ubuntu" font-size="32" fill="#cbd5e1">
+    Build fast. Look pro. Rank higher.
+  </text>
+  <text x="60" y="408" font-family="system-ui,Segoe UI,Roboto,Ubuntu" font-size="26" fill="#94a3b8">
+    SEO meta • OpenGraph • JSON-LD • GitHub Pages
+  </text>
+  <text x="60" y="480" font-family="system-ui,Segoe UI,Roboto,Ubuntu" font-size="26" fill="#94a3b8">
+    https://guns.lol/n1s4t
+  </text>
+</svg>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://n1s4t.github.io/pro-coder-starter/sitemap.xml
